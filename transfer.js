@@ -12,11 +12,9 @@ function transferDifferentBank () {
     console.log("696")
 }
 
-function Function999() {
-    console.log("zxc")
-
-    console.log("zxc")
-    console.log("zxc")
-    console.log("zxc")
-    console.log("zxc")
+function transferSameBank() {
+    console.log("123")
+    console.log("123")
+    console.log("123")
+    console.log("123")
 }
